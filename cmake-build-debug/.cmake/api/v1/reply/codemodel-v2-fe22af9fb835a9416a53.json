@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CCXXXI_Power_of_Two",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CCXXXI_Power_of_Two::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CCXXXI_Power_of_Two-Debug-ba8f896dc6e5a3232f57.json",
+					"name" : "CCXXXI_Power_of_Two",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/alex241728/Library/CloudStorage/OneDrive-UniversityofToronto/Undergraduate/LeetCode/CCXXXI Power of Two/cmake-build-debug",
+		"source" : "/Users/alex241728/Library/CloudStorage/OneDrive-UniversityofToronto/Undergraduate/LeetCode/CCXXXI Power of Two"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

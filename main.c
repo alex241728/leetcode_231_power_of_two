@@ -29,7 +29,7 @@ bool isPowerOfTwo(int n) {
         }
 
         num *= 2;
-  }
+    }
 
     return false;
 }

@@ -14,6 +14,10 @@ int main() {
 }
 
 bool isPowerOfTwo(int n) {
+    if (n < 1) {
+        return false;
+    }
+
     long long num = 1;
     while (true) {
         if (num == n) {
